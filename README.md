@@ -6,6 +6,6 @@ This project implements a logistic regression model for intent classification, e
 
 Features ⭐
 
-Simple logistic regression classifier
-Lightweight implementation
-Data augmentation using LLM
+- Simple logistic regression classifier
+- Lightweight implementation
+- Data augmentation using LLM
