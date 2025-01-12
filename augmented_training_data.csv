@@ -1,0 +1,316 @@
+sentence,label
+Do you provide EMI options?,EMI
+What are the EMI payment terms?,EMI
+Is zero interest EMI available?,EMI
+EMI duration options?,EMI
+Monthly EMI payment details?,EMI
+Can I pay through EMI?,EMI
+EMI available on credit cards?,EMI
+What's the minimum EMI amount?,EMI
+EMI processing fees?,EMI
+Which banks offer EMI?,EMI
+No cost EMI available?,EMI
+EMI tenure options?,EMI
+How to apply for EMI?,EMI
+EMI calculation process?,EMI
+EMI documentation required?,EMI
+Is COD available?,COD
+Cash on delivery option?,COD
+Do you accept COD?,COD
+COD payment possible?,COD
+Available in COD?,COD
+Can I pay on delivery?,COD
+COD charges?,COD
+Cash payment on delivery?,COD
+COD payment method available?,COD
+Do you take cash on delivery?,COD
+Is there COD option?,COD
+Can I pay cash when delivered?,COD
+COD facility available?,COD
+Accept cash on delivery?,COD
+COD payment terms?,COD
+Is it good for back pain?,ORTHO_FEATURES
+Orthopedic features available?,ORTHO_FEATURES
+Benefits for back problems?,ORTHO_FEATURES
+Does it support spine alignment?,ORTHO_FEATURES
+Orthopedic mattress specifications?,ORTHO_FEATURES
+Good for back support?,ORTHO_FEATURES
+Ortho mattress features?,ORTHO_FEATURES
+Back pain relief options?,ORTHO_FEATURES
+Orthopedic benefits?,ORTHO_FEATURES
+Spine support features?,ORTHO_FEATURES
+Doctor recommended ortho features?,ORTHO_FEATURES
+Ortho mattress technology?,ORTHO_FEATURES
+Back care specifications?,ORTHO_FEATURES
+Orthopedic support level?,ORTHO_FEATURES
+Medical grade ortho features?,ORTHO_FEATURES
+What ergonomic features available?,ERGO_FEATURES
+Ergonomic design details?,ERGO_FEATURES
+Body support features?,ERGO_FEATURES
+Comfort features?,ERGO_FEATURES
+Ergonomic specifications?,ERGO_FEATURES
+Body contouring features?,ERGO_FEATURES
+Pressure point relief?,ERGO_FEATURES
+Ergonomic benefits?,ERGO_FEATURES
+Posture support features?,ERGO_FEATURES
+Sleep comfort features?,ERGO_FEATURES
+Ergonomic technology used?,ERGO_FEATURES
+Body weight distribution?,ERGO_FEATURES
+Comfort layer details?,ERGO_FEATURES
+Ergonomic design benefits?,ERGO_FEATURES
+Motion isolation features?,ERGO_FEATURES
+Which model is better?,COMPARISON
+Compare soft vs firm mattress,COMPARISON
+Difference between models?,COMPARISON
+Best mattress type?,COMPARISON
+Compare mattress features,COMPARISON
+Which one should I choose?,COMPARISON
+Model comparison?,COMPARISON
+Difference in features?,COMPARISON
+Compare prices and features,COMPARISON
+Better option among these?,COMPARISON
+Quality comparison?,COMPARISON
+Compare specifications?,COMPARISON
+Which is more durable?,COMPARISON
+Feature comparison?,COMPARISON
+Price and quality comparison?,COMPARISON
+Warranty period?,WARRANTY
+What's covered in warranty?,WARRANTY
+Warranty terms?,WARRANTY
+How long is the warranty?,WARRANTY
+Warranty coverage details?,WARRANTY
+Extended warranty available?,WARRANTY
+Warranty claim process?,WARRANTY
+Warranty conditions?,WARRANTY
+Manufacturing warranty details?,WARRANTY
+Warranty replacement process?,WARRANTY
+What's the warranty duration?,WARRANTY
+Warranty policy?,WARRANTY
+Warranty terms and conditions?,WARRANTY
+Service warranty available?,WARRANTY
+Warranty support process?,WARRANTY
+Trial period available?,100_NIGHT_TRIAL_OFFER
+How does trial work?,100_NIGHT_TRIAL_OFFER
+100 night trial details?,100_NIGHT_TRIAL_OFFER
+Can I return after trial?,100_NIGHT_TRIAL_OFFER
+Trial period terms?,100_NIGHT_TRIAL_OFFER
+Free trial available?,100_NIGHT_TRIAL_OFFER
+Trial period policy?,100_NIGHT_TRIAL_OFFER
+How long is trial period?,100_NIGHT_TRIAL_OFFER
+Trial offer conditions?,100_NIGHT_TRIAL_OFFER
+Return during trial period?,100_NIGHT_TRIAL_OFFER
+Trial period process?,100_NIGHT_TRIAL_OFFER
+100 nights trial terms?,100_NIGHT_TRIAL_OFFER
+Sleep trial details?,100_NIGHT_TRIAL_OFFER
+Trial period guarantee?,100_NIGHT_TRIAL_OFFER
+Test period available?,100_NIGHT_TRIAL_OFFER
+Custom size possible?,SIZE_CUSTOMIZATION
+Can size be customized?,SIZE_CUSTOMIZATION
+Customization options available?,SIZE_CUSTOMIZATION
+Make custom size mattress?,SIZE_CUSTOMIZATION
+Special size possible?,SIZE_CUSTOMIZATION
+Non-standard size available?,SIZE_CUSTOMIZATION
+Custom dimensions possible?,SIZE_CUSTOMIZATION
+Customize mattress size?,SIZE_CUSTOMIZATION
+Special dimensions available?,SIZE_CUSTOMIZATION
+Custom measurements possible?,SIZE_CUSTOMIZATION
+Specific size requirements?,SIZE_CUSTOMIZATION
+Personalized size options?,SIZE_CUSTOMIZATION
+Custom size charges?,SIZE_CUSTOMIZATION
+Unusual size possible?,SIZE_CUSTOMIZATION
+Size modification available?,SIZE_CUSTOMIZATION
+Which size should I buy?,WHAT_SIZE_TO_ORDER
+Recommend size for me?,WHAT_SIZE_TO_ORDER
+Best size for couple?,WHAT_SIZE_TO_ORDER
+Size for single person?,WHAT_SIZE_TO_ORDER
+What size fits my bed?,WHAT_SIZE_TO_ORDER
+Size recommendation needed,WHAT_SIZE_TO_ORDER
+Help choosing mattress size,WHAT_SIZE_TO_ORDER
+Correct size for me?,WHAT_SIZE_TO_ORDER
+Size selection help?,WHAT_SIZE_TO_ORDER
+Suitable size suggestion?,WHAT_SIZE_TO_ORDER
+Size guide help?,WHAT_SIZE_TO_ORDER
+Size recommendation?,WHAT_SIZE_TO_ORDER
+Which dimension to choose?,WHAT_SIZE_TO_ORDER
+Size selection advice?,WHAT_SIZE_TO_ORDER
+Help with size selection?,WHAT_SIZE_TO_ORDER
+Contact me for details,LEAD_GEN
+Want more information,LEAD_GEN
+Call back request,LEAD_GEN
+Share more details,LEAD_GEN
+Need mattress consultation,LEAD_GEN
+Request call back,LEAD_GEN
+Send product details,LEAD_GEN
+Interested in buying,LEAD_GEN
+Share price details,LEAD_GEN
+Need more information,LEAD_GEN
+Contact for purchase,LEAD_GEN
+Request product demo,LEAD_GEN
+Schedule consultation call,LEAD_GEN
+Want to know more,LEAD_GEN
+Interested in mattress,LEAD_GEN
+Delivery to my pincode?,CHECK_PINCODE
+Check pincode availability,CHECK_PINCODE
+Serviceable in my area?,CHECK_PINCODE
+Deliver to my location?,CHECK_PINCODE
+Check delivery availability,CHECK_PINCODE
+Pincode serviceable?,CHECK_PINCODE
+Delivery to this pincode?,CHECK_PINCODE
+Check shipping availability,CHECK_PINCODE
+Available in my area?,CHECK_PINCODE
+Delivery possible here?,CHECK_PINCODE
+Service my location?,CHECK_PINCODE
+Check delivery pincode,CHECK_PINCODE
+Shipping to my area?,CHECK_PINCODE
+Delivery zone check,CHECK_PINCODE
+Available in my pincode?,CHECK_PINCODE
+Nearest store location?,DISTRIBUTORS
+Store in my city?,DISTRIBUTORS
+Dealer near me?,DISTRIBUTORS
+Local distributor contact?,DISTRIBUTORS
+Showroom location?,DISTRIBUTORS
+Nearest dealer address?,DISTRIBUTORS
+Store locations?,DISTRIBUTORS
+Where to buy locally?,DISTRIBUTORS
+Authorized dealer nearby?,DISTRIBUTORS
+Showroom in my area?,DISTRIBUTORS
+Local store available?,DISTRIBUTORS
+Distributor contact details?,DISTRIBUTORS
+Retail store location?,DISTRIBUTORS
+Official dealer nearby?,DISTRIBUTORS
+Store address please?,DISTRIBUTORS
+What's the price?,MATTRESS_COST
+Cost of queen size?,MATTRESS_COST
+Price details please,MATTRESS_COST
+How much is it?,MATTRESS_COST
+Single mattress price?,MATTRESS_COST
+Rate for double bed?,MATTRESS_COST
+Price list?,MATTRESS_COST
+Cost details?,MATTRESS_COST
+King size price?,MATTRESS_COST
+Mattress rates?,MATTRESS_COST
+Price range?,MATTRESS_COST
+Basic model cost?,MATTRESS_COST
+Premium version price?,MATTRESS_COST
+Different sizes cost?,MATTRESS_COST
+Price information needed,MATTRESS_COST
+Different types available?,PRODUCT_VARIANTS
+What variants do you have?,PRODUCT_VARIANTS
+Available models?,PRODUCT_VARIANTS
+Types of mattresses?,PRODUCT_VARIANTS
+Product range?,PRODUCT_VARIANTS
+Available options?,PRODUCT_VARIANTS
+Different models?,PRODUCT_VARIANTS
+Range of products?,PRODUCT_VARIANTS
+Mattress varieties?,PRODUCT_VARIANTS
+All available types?,PRODUCT_VARIANTS
+Product categories?,PRODUCT_VARIANTS
+Different collections?,PRODUCT_VARIANTS
+Available selections?,PRODUCT_VARIANTS
+Model variations?,PRODUCT_VARIANTS
+Type of mattresses available?,PRODUCT_VARIANTS
+About your company?,ABOUT_SOF_MATTRESS
+Company background?,ABOUT_SOF_MATTRESS
+Tell me about SOF,ABOUT_SOF_MATTRESS
+Company information?,ABOUT_SOF_MATTRESS
+About your brand?,ABOUT_SOF_MATTRESS
+Company details?,ABOUT_SOF_MATTRESS
+Manufacturing process?,ABOUT_SOF_MATTRESS
+About the brand?,ABOUT_SOF_MATTRESS
+Company profile?,ABOUT_SOF_MATTRESS
+Tell about SOF mattress,ABOUT_SOF_MATTRESS
+Brand information?,ABOUT_SOF_MATTRESS
+Company history?,ABOUT_SOF_MATTRESS
+About manufacturer?,ABOUT_SOF_MATTRESS
+Brand background?,ABOUT_SOF_MATTRESS
+Company overview?,ABOUT_SOF_MATTRESS
+Why delivery delayed?,DELAY_IN_DELIVERY
+Order delay reason?,DELAY_IN_DELIVERY
+Late delivery issue,DELAY_IN_DELIVERY
+Delivery delay status?,DELAY_IN_DELIVERY
+Why order late?,DELAY_IN_DELIVERY
+Delayed shipment reason?,DELAY_IN_DELIVERY
+When will order arrive?,DELAY_IN_DELIVERY
+Reason for delay?,DELAY_IN_DELIVERY
+Delivery taking time?,DELAY_IN_DELIVERY
+Order delay explanation?,DELAY_IN_DELIVERY
+Late delivery reason?,DELAY_IN_DELIVERY
+Shipment delay status?,DELAY_IN_DELIVERY
+Delay in order?,DELAY_IN_DELIVERY
+Expected delivery date?,DELAY_IN_DELIVERY
+Why is order delayed?,DELAY_IN_DELIVERY
+Track my order,ORDER_STATUS
+Order status?,ORDER_STATUS
+Where is my order?,ORDER_STATUS
+Delivery status?,ORDER_STATUS
+Current order status?,ORDER_STATUS
+Tracking details?,ORDER_STATUS
+Shipment status?,ORDER_STATUS
+Order tracking information?,ORDER_STATUS
+Check order status,ORDER_STATUS
+Order location?,ORDER_STATUS
+Status of delivery?,ORDER_STATUS
+Package status?,ORDER_STATUS
+Order progress?,ORDER_STATUS
+Delivery tracking?,ORDER_STATUS
+Order whereabouts?,ORDER_STATUS
+Return policy?,RETURN_EXCHANGE
+How to return?,RETURN_EXCHANGE
+Exchange possible?,RETURN_EXCHANGE
+Return process?,RETURN_EXCHANGE
+Exchange policy?,RETURN_EXCHANGE
+Return conditions?,RETURN_EXCHANGE
+How to exchange?,RETURN_EXCHANGE
+Return period?,RETURN_EXCHANGE
+Exchange terms?,RETURN_EXCHANGE
+Return guidelines?,RETURN_EXCHANGE
+Product return process?,RETURN_EXCHANGE
+Exchange procedure?,RETURN_EXCHANGE
+Return terms?,RETURN_EXCHANGE
+How returns work?,RETURN_EXCHANGE
+Exchange duration?,RETURN_EXCHANGE
+Cancel my order,CANCEL_ORDER
+How to cancel?,CANCEL_ORDER
+Cancel order process?,CANCEL_ORDER
+Order cancellation?,CANCEL_ORDER
+Cancel booking?,CANCEL_ORDER
+Cancellation process?,CANCEL_ORDER
+Want to cancel order,CANCEL_ORDER
+Cancel order procedure?,CANCEL_ORDER
+Cancellation policy?,CANCEL_ORDER
+How cancel order?,CANCEL_ORDER
+Order cancellation process?,CANCEL_ORDER
+Cancel current order?,CANCEL_ORDER
+Cancellation terms?,CANCEL_ORDER
+Cancel order steps?,CANCEL_ORDER
+Cancellation charges?,CANCEL_ORDER
+Do you sell pillows?,PILLOWS
+Pillow varieties available?,PILLOWS
+Pillow prices?,PILLOWS
+Types of pillows?,PILLOWS
+Pillow features?,PILLOWS
+Memory foam pillows?,PILLOWS
+Orthopedic pillows available?,PILLOWS
+Pillow specifications?,PILLOWS
+Pillow materials used?,PILLOWS
+Pillow size options?,PILLOWS
+Pillow warranty?,PILLOWS
+Special pillow types?,PILLOWS
+Pillow quality details?,PILLOWS
+Neck support pillows?,PILLOWS
+Buy pillows separately?,PILLOWS
+Any current offers?,OFFERS
+Ongoing discounts?,OFFERS
+Special offers available?,OFFERS
+Any deals running?,OFFERS
+Discount offers?,OFFERS
+Current promotions?,OFFERS
+Any sale going on?,OFFERS
+Available discounts?,OFFERS
+Festive offers?,OFFERS
+Seasonal discounts?,OFFERS
+Promotional offers?,OFFERS
+Any schemes available?,OFFERS
+Current deals?,OFFERS
+Discount seasons?,OFFERS
+Offer period details?,OFFERS
